@@ -44,7 +44,7 @@
         </div>
     @endsection
 
-    @push('script') 
+    @push('script')
         <script>
             $(function () {
                 $('#cinemasTable').DataTable({
